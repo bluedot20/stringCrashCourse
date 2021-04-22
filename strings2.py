@@ -1,7 +1,7 @@
 # Strings 
 
 
-string1 = 'abcde'
+string1 = 'abc'
 string2 = "ABCDE"
 string3 = "12345"
 
